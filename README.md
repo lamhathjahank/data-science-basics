@@ -34,6 +34,6 @@ Step 4: Branching and merging are essential concepts in Git that help teams coll
 
 Step 5:  sinc GitHub for remote collaboration involves leveraging its features to manage code repositories, track changes, and facilitate teamwork.
  
-sss
+
 
 
